@@ -22,10 +22,10 @@ repository               : "TaylorEssien/TaylorEssien.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bestheadshot.jpg"
   name             : "Essien Taylor"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Engineering PhD Candidate"
   location         : "Evanston, IL"
   employer         : "Northwestern University"
   uri              : # URL
